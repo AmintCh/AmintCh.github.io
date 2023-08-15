@@ -1,0 +1,25 @@
+.tittle{
+    padding: 10%;
+}
+.title__container{
+    font-family: 'Belanosima', sans-serif;
+    width: 80%;
+    margin: 5% 10%;
+}
+
+.title__bio{
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: #1E499E;
+}
+
+.title__subsection{
+    font-size: 25px;
+    padding: 10px;
+    margin: 0 10%;
+    line-height:normal;
+    text-align: justify;
+    color: #4D5176;
+}
+

@@ -1,0 +1,29 @@
+.footer{
+    height: 200px;
+    background-color: #1D3861;
+    font-family: 'Belanosima', sans-serif;
+}
+.title__network{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.title__network__item{
+    padding: 10px;
+    color: #9E720E;
+}
+
+.item__icono{
+    width:20px;
+    float:inline; 
+    border-radius: 2rem;
+    margin: 0 5px; 
+}
+
+.footer__rodape{
+    text-align: center;
+    color: #9E720E;
+}
+
+    
