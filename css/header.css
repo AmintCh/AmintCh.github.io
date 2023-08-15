@@ -1,0 +1,42 @@
+body {
+    background-color:#D8DAF2;
+}
+
+.header {
+    font-family: 'Belanosima', sans-serif;
+    color: #EBB744;
+    background-color: #1D3861;
+    padding: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header_nombre {
+    margin-bottom: 1rem;
+    font-size: 50px;
+    margin-left: 10%;
+}
+
+.header_navegacion {
+    display: flex;
+    text-align: center;
+    width: 50%;
+}
+
+.header_element {
+    font-size: 25px;
+    margin:2%; 
+}
+
+.header_element:hover {
+    color:#9E720E;
+    font-size: 26px;
+}
+
+.header_navegacion_link {
+    display: inline-block; 
+    margin: 2%;
+}
+
+

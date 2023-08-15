@@ -1,0 +1,35 @@
+.skills{
+    font-family:'Belanosima', sans-serif;
+}
+
+
+.skills__titulo {
+    margin: 50px 50px 40px 0px;
+    text-align: center;
+    font-size:70px ;
+    color:#1E499E
+}
+
+.skills__line {   
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px; 
+    margin: 0 15%  0 15%;
+}
+
+.skills__box { 
+    width: 20%;
+    height: 300px;
+    padding: 25px;
+    text-align: center;
+    background-color: #FFF;
+	box-shadow: 3px 3px #EBB744;
+    border-radius: 1rem;
+}
+
+
+.skills__name {
+    font-size: 25px;
+    padding: 2rem;
+    color: #1E499E ;
+}
